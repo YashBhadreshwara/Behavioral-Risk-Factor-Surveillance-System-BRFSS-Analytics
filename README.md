@@ -34,12 +34,12 @@ Helps public health stakeholders:
 - Track behavioral patterns
 - Make policy decisions
 
-![Project Demo](AWS Dashboard.png)
-![Project Demo](OnPrem Dashboard.png)
+![Project Demo](AWS_Dashboard.png)
+![Project Demo](OnPrem_Dashboard.png)
 
 
-![Project Demo](OnPrem Dashboard.png)
+![Project Demo](OnPrem_Dashboard.png)
 
 <p align="center">
-  <img src="OnPrem Dashboard.png" width="700"/>
+  <img src="OnPrem_Dashboard.png" width="700"/>
 </p>
