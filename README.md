@@ -33,3 +33,7 @@ Helps public health stakeholders:
 - Identify high-risk regions
 - Track behavioral patterns
 - Make policy decisions
+
+![Project Demo](AWS Dashboard.png)
+![Project Demo](OnPrem Dashboard.png)
+
