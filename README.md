@@ -37,3 +37,9 @@ Helps public health stakeholders:
 ![Project Demo](AWS Dashboard.png)
 ![Project Demo](OnPrem Dashboard.png)
 
+
+![Project Demo](OnPrem Dashboard.png)
+
+<p align="center">
+  <img src="OnPrem Dashboard.png" width="700"/>
+</p>
