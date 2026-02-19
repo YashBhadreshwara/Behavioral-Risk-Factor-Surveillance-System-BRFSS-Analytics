@@ -35,11 +35,4 @@ Helps public health stakeholders:
 - Make policy decisions
 
 ![Project Demo](AWS_Dashboard.png)
-![Project Demo](OnPrem_Dashboard.png)
-
-
-![Project Demo](OnPrem_Dashboard.png)
-
-<p align="center">
-  <img src="OnPrem_Dashboard.png" width="700"/>
-</p>
+![Project Demo](OnPrem_Dashboad.png)
